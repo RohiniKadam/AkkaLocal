@@ -11,7 +11,8 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.4.17",
   "com.typesafe.akka" %% "akka-remote" % "2.4.17",
   "com.diwo" %% "diwo-kmm-lib" % "1.0.0-SNAPSHOT",
-  "com.diwo" %% "diwo-error" %  "1.0.0-SNAPSHOT"
+  "com.diwo" %% "diwo-error" % "1.0.0-SNAPSHOT",
+  "com.diwo" %% "diwo-akka-message" % "1.0.0-SNAPSHOT"
 )
 
 
